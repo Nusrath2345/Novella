@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Mac
+.DS_Store
+
+# Downloaded books and generated output (can be recreated by running the pipeline)
+data/raw/
+data/output/
