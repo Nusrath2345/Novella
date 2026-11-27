@@ -1,2 +1,4 @@
 spacy>=3.7
 pytest>=8.0
+EbookLib>=0.18
+beautifulsoup4>=4.12
